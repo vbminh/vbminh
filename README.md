@@ -9,8 +9,8 @@
   
   ![](https://komarev.com/ghpvc/?username=vbminh&color=gray)
 
-- 🔭 I’m currently working on HaUi <img src="https://github.com/vbminh/vbminh/blob/main/images/1.gif" width="50" height="50"</img>
-- 🌱 I’m currently learning Java web and mobile app <img src="https://github.com/vbminh/vbminh/blob/main/images/source.gif" width="50" height="50"</img>
+<p>- 🔭 I’m currently working on HaUi <img src="https://github.com/vbminh/vbminh/blob/main/images/1.gif" width="50" height="50"</img></p>
+<p>- 🌱 I’m currently learning Java web and mobile app <img src="https://github.com/vbminh/vbminh/blob/main/images/source.gif" width="50" height="50"</img></p>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

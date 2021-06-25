@@ -12,5 +12,5 @@
 <p>- 🔭 I’m currently working on HaUi <img src="https://github.com/vbminh/vbminh/blob/main/images/1.gif" width="50" height="50"</img></p>
 <p>- 🌱 I’m currently learning Java web and mobile app <img src="https://github.com/vbminh/vbminh/blob/main/images/source.gif" width="50" height="50"</img></p>
 <p>- 💬 I would be grateful if you could give me your comment <img src="https://github.com/vbminh/vbminh/blob/main/images/2.gif" width="50" height="50"</img></p>
-<p>- 📫 You can contact me at 0378086352 || binhminh150301@gmail.com || Facebook: <a href="https://www.facebook.com/binhminh.vu1503">
-- ⚡ Fun fact: ...
+<p>- 📫 You can contact me at 0378086352 || binhminh150301@gmail.com || Facebook: <a href="https://www.facebook.com/binhminh.vu1503"> <img src="https://github.com/vbminh/vbminh/blob/main/images/3.gif" width="50" height="50"</img></p>
+

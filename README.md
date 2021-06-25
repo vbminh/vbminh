@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**vbminh/vbminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div style="margin: auto;">
+<div style="text-align: center">
+  <h2> <img src="https://assets.pinterest.com/ext/embed.html?id=315603886396944849" width="50" height="50"</img>Hi everyone!!! I'm <b>Vu Binh Minh</b>  <img src="https://assets.pinterest.com/ext/embed.html?id=232850243224115271" width="50" height="50"</img>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

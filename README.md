@@ -7,7 +7,7 @@
   </h2>
   </div>
   
-  ![](https://komarev.com/ghpvc/?username=vbminh&color=green)
+  ![](https://komarev.com/ghpvc/?username=vbminh&color=gray)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

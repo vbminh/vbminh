@@ -1,4 +1,4 @@
-<img src="https://github.com/vbminh/vbminh/blob/main/images/NgaoKiemRiven.gif"  width="1215" height="717"></img>
+<img src="https://github.com/vbminh/vbminh/blob/main/images/NgaoKiemRiven.jpg"  width="608" height="354"></img>
 
 <div style="margin: auto;">
 <div style="text-align: center">

@@ -9,7 +9,8 @@
   
   ![](https://komarev.com/ghpvc/?username=vbminh&color=gray)
   
-  <h4>"When you want to give up<br>Remember why you started"</h4>
+  <h4><pre>                                   "When you want to give up
+                                               Remember why you started"</pre></h4>
 
 <p>- 🔭 I’m currently working on HaUi <img src="https://github.com/vbminh/vbminh/blob/main/images/1.gif" width="50" height="50"</img></p>
 <p>- 🌱 I’m currently learning Java web and mobile app <img src="https://github.com/vbminh/vbminh/blob/main/images/source.gif" width="50" height="50"</img></p>

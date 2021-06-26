@@ -1,4 +1,4 @@
-<img src="https://pin.it/7bsyojt"  width="100%" height="50%"></img>
+<img src="https://github.com/vbminh/vbminh/blob/main/images/NgaoKiemRiven.gif"  width="1215" height="717"></img>
 
 <div style="margin: auto;">
 <div style="text-align: center">

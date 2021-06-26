@@ -1,4 +1,4 @@
-<img src="https://github.com/vbminh/vbminh/blob/main/images/NgaoKiemRiven.jpg"  width="100%" height="250"></img>
+<img src="https://github.com/vbminh/vbminh/blob/main/images/NgaoKiemRiven.jpg"  width="100%" height="50%"></img>
 
 <div style="margin: auto;">
 <div style="text-align: center">
@@ -9,7 +9,7 @@
   
   ![](https://komarev.com/ghpvc/?username=vbminh&color=gray)
   
-  <h3 style="text-align: center;margin-left: 100px;">"When you want to give up<br>Remember why you started</h3>
+  <h4>"When you want to give up<br>Remember why you started"</h4>
 
 <p>- 🔭 I’m currently working on HaUi <img src="https://github.com/vbminh/vbminh/blob/main/images/1.gif" width="50" height="50"</img></p>
 <p>- 🌱 I’m currently learning Java web and mobile app <img src="https://github.com/vbminh/vbminh/blob/main/images/source.gif" width="50" height="50"</img></p>

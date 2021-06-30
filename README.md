@@ -17,6 +17,6 @@
 <p>- 💬 I would be grateful if you could give me your comment <img src="https://github.com/vbminh/vbminh/blob/main/images/2.gif" width="50" height="50"</img></p>
 <p>- 📫 You can contact me at <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t21/1/28/260e.png" width="15" height="15"> 0378086352 || <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t9f/1/28/1f4e7.png" width="15" height="15"> binhminh150301@gmail.com || <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t38/1/28/1f4f1.png" width="15" height="15"> <a href="https://www.facebook.com/binhminh.vu1503" target="blank">Bình Minh</a> <img src="https://github.com/vbminh/vbminh/blob/main/images/3.gif" width="50" height="50"</img></p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbminh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbminh&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbminh&show_icons=true&theme=radical)
+

@@ -2,8 +2,8 @@
 
 <div style="margin: auto;">
 <div style="text-align: center">
-  <h2 style="text-align: center;"> <img src="https://github.com/vbminh/vbminh/blob/main/images/8.gif" width="50" height="50"</img>Xin chào mọi người, lại là Minh đây  <img src="https://github.com/vbminh/vbminh/blob/main/images/7.gif" width="50" height="50"</img>
-   
+  <h2><pre>                <img src="https://github.com/vbminh/vbminh/blob/main/images/8.gif" width="50" height="50"</img>Xin chào mọi người, lại là Minh đây  <img src="https://github.com/vbminh/vbminh/blob/main/images/7.gif" width="50" height="50"</img>
+   </pre>
   </h2>
   </div>
   

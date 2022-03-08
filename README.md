@@ -2,14 +2,13 @@
 
 <div style="margin: auto;">
 <div style="text-align: center">
-  <h2>  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp; <img src="https://github.com/vbminh/vbminh/blob/main/images/8.gif" width="50" height="50"</img>Xin chào mọi người, lại là Minh đây  <img src="https://github.com/vbminh/vbminh/blob/main/images/7.gif" width="50" height="50"</img>
+  <h2>  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp; <img src="https://github.com/vbminh/vbminh/blob/main/images/8.gif" width="50" height="50"</img>Hi everyone, I'm Vu Binh Minh<img src="https://github.com/vbminh/vbminh/blob/main/images/7.gif" width="50" height="50"</img>
   </h2>
   </div>
   
-  ![](https://komarev.com/ghpvc/?username=vbminh&color=gray)
-  
-  <h2><pre>                        <img src="https://github.com/vbminh/vbminh/blob/main/images/5.gif" width="50" height="50"</img> "When you want to give up
-                                   Remember why you started" <img src="https://github.com/vbminh/vbminh/blob/main/images/4.gif" width="50" height="50"</img></pre></h2>
+ <p align="center">
+  <a href="https://vbminh.github.io"><img src="https://readme-typing-svg.herokuapp.com?lines=Java Developer;Confident;Creative;Active&center=true" /></a>
+  </p>
 
 <p>- 🔭 I’m currently working on HaUi <img src="https://github.com/vbminh/vbminh/blob/main/images/6.gif" width="50" height="50"</img></p>
 <p>- 🌱 I’m currently learning Java web and mobile app <img src="https://github.com/vbminh/vbminh/blob/main/images/source.gif" width="50" height="50"</img></p>

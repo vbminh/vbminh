@@ -6,9 +6,7 @@
   </h2>
   </div>
   
- <p align="center">
-  <a href="https://vbminh.github.io"><img src="https://readme-typing-svg.herokuapp.com?lines=Java Developer;Confident;Creative;Active&center=true" /></a>
-  </p>
+ <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Java Developer;Confident;Creative;Active&center=true" /></p>
 
 <p>- 🔭 I’m currently working on HaUi <img src="https://github.com/vbminh/vbminh/blob/main/images/6.gif" width="50" height="50"</img></p>
 <p>- 🌱 I’m currently learning Java web and mobile app <img src="https://github.com/vbminh/vbminh/blob/main/images/source.gif" width="50" height="50"</img></p>

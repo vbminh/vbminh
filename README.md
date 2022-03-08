@@ -8,10 +8,10 @@
   
  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Confident;Creative;Active&center=true" /></p>
 
-<p>- 🔭 I’m currently working on HaUi <img src="https://github.com/vbminh/vbminh/blob/main/images/6.gif" width="50" height="50"</img></p>
+<p>- 🔭 I study at HaNoi University of Industry
 <p>- 🌱 I’m currently learning Java web and mobile app <img src="https://github.com/vbminh/vbminh/blob/main/images/source.gif" width="50" height="50"</img></p>
-<p>- 💬 I would be grateful if you could give me your comment <img src="https://github.com/vbminh/vbminh/blob/main/images/2.gif" width="50" height="50"</img></p>
-<p>- 📫 You can contact me at <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t21/1/28/260e.png" width="15" height="15"> 0378086352 || <img src="https://github.com/vbminh/vbminh/blob/main/images/gmail.png" width="15" height="15"> binhminh150301@gmail.com || <img src="https://github.com/vbminh/vbminh/blob/main/images/fb.png" width="15" height="15"> <a href="https://www.facebook.com/binhminh.vu1503" target="blank">Bình Minh</a> || <img src="https://github.com/vbminh/vbminh/blob/main/images/ig.jpg" width="15" height="15">  <a href="https://www.instagram.com/v.smin/">v.smin</a></p> <img src="https://github.com/vbminh/vbminh/blob/main/images/3.gif" width="50" height="50"</img>
+<p>- 💬 I would be grateful if you could give me your comment</p>
+<p>- 📫 You can contact me at <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t21/1/28/260e.png" width="15" height="15"> 0378086352 || <img src="https://github.com/vbminh/vbminh/blob/main/images/gmail.png" width="15" height="15"> binhminh150301@gmail.com || <img src="https://github.com/vbminh/vbminh/blob/main/images/fb.png" width="15" height="15"> <a href="https://www.facebook.com/binhminh.vu1503" target="blank">Bình Minh</a> || <img src="https://github.com/vbminh/vbminh/blob/main/images/ig.jpg" width="15" height="15">  <a href="https://www.instagram.com/v.smin/">v.smin</a></p>
   
 <br>
   <summary>:chart_with_upwards_trend: Contribution Graph </summary>

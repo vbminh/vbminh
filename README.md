@@ -11,7 +11,7 @@
 <p>- 🔭 I study at HaNoi University of Industry
 <p>- 🌱 I’m currently learning Java web and mobile app</p>
 <p>- 💬 I would be grateful if you could give me your comment</p>
-<p>- 📫 You can contact me at <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t21/1/28/260e.png" width="15" height="15"> 0378086352 || <img src="https://github.com/vbminh/vbminh/blob/main/images/gmail.png" width="15" height="15"> binhminh150301@gmail.com || <img src="https://github.com/vbminh/vbminh/blob/main/images/fb.png" width="15" height="15"> <a href="https://www.facebook.com/binhminh.vu1503" target="blank">Bình Minh</a> || <img src="https://github.com/vbminh/vbminh/blob/main/images/ig.jpg" width="15" height="15">  <a href="https://www.instagram.com/v.smin/">v.smin</a></p>
+<p>- 📫 You can contact me at <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t21/1/28/260e.png" width="15" height="15"> 0378086352 || <img src="https://github.com/vbminh/vbminh/blob/main/images/gmail.png" width="15" height="15"> binhminh150301@gmail.com || <img src="https://github.com/vbminh/vbminh/blob/main/images/fb.png" width="15" height="15"> <a href="https://www.facebook.com/binhminh.vu1503" target="blank">Bình Minh</a> || <img src="https://github.com/vbminh/vbminh/blob/main/images/ig.jpg" width="15" height="15">  <a href="https://www.instagram.com/v.smin/" target="blank">v.smin</a></p>
  
 <br/>
   <summary>:chart_with_upwards_trend: Contribution Graph </summary>

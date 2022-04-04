@@ -2,7 +2,7 @@
 
 <div style="margin: auto;">
 <div style="text-align: center">
-  <h2>  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp; <img src="https://github.com/vbminh/vbminh/blob/main/images/8.gif" width="50" height="50"</img>Hi everyone, I'm Vu Binh Minh<img src="https://github.com/vbminh/vbminh/blob/main/images/7.gif" width="50" height="50"</img>
+  <h2>  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp; <img src="https://github.com/vbminh/vbminh/blob/main/images/8.gif" width="50" height="50"</img>Hi everyone, I am Vu Binh Minh<img src="https://github.com/vbminh/vbminh/blob/main/images/7.gif" width="50" height="50"</img>
   </h2>
   </div>
   

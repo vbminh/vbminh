@@ -20,13 +20,13 @@
  <br/>
  <summary>:fire: GitHub Streak</summary>
  <br/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbminh&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vbminh&theme=radical&show-icons=true" alt="GitHub Streak" align="center" />
 
 <br/>
 <br/>
 <p>
   <a href="https://github.com/vbminh" title="User Profile">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=vbminh&show_icons=true&theme=cobalt&hide=[%22contribs%22,%22issues%22]">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=vbminh&show_icons=true&theme=radical&hide=[%22contribs%22,%22issues%22]">
   </a>
   <a href="https://github.com/vbminh" title="User Profile">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbminh&theme=radical&layout=compact">

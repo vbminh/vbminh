@@ -16,7 +16,7 @@
 <br/>
   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
 <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=vbminh&theme=xcode" alt="Contribution Graph" align="center" />                                        <br/>                                                                                            
+   <img src="https://activity-graph.herokuapp.com/graph?username=vbminh&theme=radical" alt="Contribution Graph" align="center" />                                        <br/>                                                                                            
  <br/>
  <summary>:fire: GitHub Streak</summary>
  <br/>

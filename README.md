@@ -29,7 +29,7 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=vbminh&show_icons=true&theme=radical&hide=[%22contribs%22,%22issues%22]">
   </a>
   <a href="https://github.com/vbminh" title="User Profile">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbminh">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbminh&theme=radical&layout=compact">
   </a>
 </p>
 
